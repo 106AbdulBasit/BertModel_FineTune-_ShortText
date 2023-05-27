@@ -1,4 +1,6 @@
 # BertModel_FineTune-_ShortText
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aCtvDuOuqSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 This repository contains code for fine-tuning the BERT model on the Hate Speech Dataset obtained from a White Supremacy Forum. The goal is to perform short text classification using BERT.
 
 Dataset
