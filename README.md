@@ -1,4 +1,4 @@
-[app](https://raw.githubusercontent.com/106AbdulBasit/BertModel_FineTune-_ShortText/main/App_Screen_Shot.PNG)
+![app](https://raw.githubusercontent.com/106AbdulBasit/BertModel_FineTune-_ShortText/main/App_Screen_Shot.PNG)
 
 [Watch the Video](https://www.youtube.com/watch?v=aCtvDuOuqSI)
 
